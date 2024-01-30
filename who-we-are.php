@@ -8,7 +8,7 @@
         <img src="assets/images/banner/who-we-are.jpg" alt="Who are we" class="banner-img" loading="lazy" width="100%">
     </section>
 
-<section class=" pt-5">
+<section class="pt-5">
         <div class="container pt-5">
             <div class="row">
                 <div class="col-xl-9 col-12">
