@@ -5,6 +5,10 @@
 
 <?php include_once('includes/header.php'); ?>
 
+<section class="banner mb-4">
+        <img src="assets/images/banner/who-we-are.jpg" alt="Who are we" class="banner-img" loading="lazy" width="100%">
+    </section>
+
     <section class=" pt-5">
         <div class="container pt-5">
             <section class="sektorel-cozumler mb-5">
