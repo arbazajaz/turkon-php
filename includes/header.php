@@ -64,8 +64,10 @@
 
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><a class="dropdown-item" href="turkey.php">TURKEY</a></li>
+                            <li><a class="dropdown-item" href="usa.php">USA</a></li>
+                            <li><a class="dropdown-item" href="europe.php">EUROPE</a></li>
+                            <li><a class="dropdown-item" href="middle-east.php">MIDDLE EAST</a></li>
 
                             </ul>
                         </li>
