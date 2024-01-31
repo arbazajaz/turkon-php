@@ -15,7 +15,7 @@
                 <li class="nav-item dropdown">
                         <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 
-                            CORPORATE
+                            CORPORATE 
 
                         </a>
 
@@ -29,7 +29,7 @@
                                 <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">
 
-                                    Policies
+                                    Policies <i class="fa fa-arrow-right text-white"></i>
 
                                 </a>
                                 <ul class="dropdown-menu">
@@ -52,7 +52,7 @@
                                 <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">
 
-                                    certificates
+                                    certificates <i class="fa fa-arrow-right text-white"></i>
 
                                 </a>
                                 <ul class="dropdown-menu">

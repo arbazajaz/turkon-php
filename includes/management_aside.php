@@ -47,7 +47,7 @@
                     <a href="#tr/kurumsal/haberler/award-to-turkon-line-from-bulutistan"
                         class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                 <div class="d-flex justify-content-end w-100 pos-icon">
                     <a href="#" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                 <div class="d-flex justify-content-end w-100 pos-icon">
                     <a href="#" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>

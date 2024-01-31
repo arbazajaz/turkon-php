@@ -3,17 +3,17 @@
 <div class="ml-md-3 aside text-secondary">
             <h3 class="aside-header ps-2 fs-18 text-secondary m-0">EQUIPMENTS</h3>
             <div class="d-flex flex-column">
-                    <a href="/en/solutions/equipments/dry-van-20" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 20'</a>
-                    <a href="/en/solutions/equipments/dry-van-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 40'</a>
-                    <a href="/en/solutions/equipments/dry-van-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 40' HC</a>
-                    <a href="/en/solutions/equipments/pallet-wide-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 40'</a>
-                    <a href="/en/solutions/equipments/pallet-wide-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 40' HC</a>
-                    <a href="/en/solutions/equipments/pallet-wide-45-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 45' HC</a>
-                    <a href="/en/solutions/equipments/open-top-20" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 20'</a>
-                    <a href="/en/solutions/equipments/open-top-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 40'</a>
-                    <a href="/en/solutions/equipments/open-top-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 40' HC</a>
-                    <a href="/en/solutions/equipments/flat-rack-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Flat Rack 40'</a>
-                    <a href="/en/solutions/equipments/reefer-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Reefer 40' HC</a>
+                    <a href="dry-van-20" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 20'</a>
+                    <a href="dry-van-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 40'</a>
+                    <a href="dry-van-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Dry Van 40' HC</a>
+                    <a href="pallet-wide-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 40'</a>
+                    <a href="pallet-wide-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 40' HC</a>
+                    <a href="pallet-wide-45-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Pallet Wide 45' HC</a>
+                    <a href="open-top-20" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 20'</a>
+                    <a href="open-top-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 40'</a>
+                    <a href="open-top-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Open Top 40' HC</a>
+                    <a href="flat-rack-40" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Flat Rack 40'</a>
+                    <a href="reefer-40-hc" class="aside-link text-secondary ps-2 pt-2 "> <i class="ms-icon ms-icon-forward text-danger"></i> Reefer 40' HC</a>
             </div>
             <div class="mb-4"></div>
         </div>
@@ -40,7 +40,7 @@
                     <a href="#tr/kurumsal/haberler/award-to-turkon-line-from-bulutistan"
                         class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>
@@ -61,7 +61,7 @@
                 <div class="d-flex justify-content-end w-100 pos-icon">
                     <a href="#" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>
@@ -84,7 +84,7 @@
                 <div class="d-flex justify-content-end w-100 pos-icon">
                     <a href="#" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
                         aria-label="details">
-                        <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                        <i class="  fa fa-arrow-right text-danger"></i>
                     </a>
                 </div>
             </div>
