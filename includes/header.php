@@ -45,7 +45,9 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="med-usa-services.php">MED & USA SERVICE (USM)</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li><a class="dropdown-item" href="egypt-lebanon.php">EGYPT & LEBANON SERVICE (TEL)</a></li>
+                                <li><a class="dropdown-item" href="israel-service.php">ISRAEL SERVICE (TIES)</a></li>
+                              
 
                             </ul>
                         </li>

@@ -18,12 +18,13 @@
                             <ol class="breadcrumb">
 
                                 <li class="breadcrumb-item">
-                                    <a href="/en" title="">Homepage</a>
+                                    <a href="#" title="">Homepage</a>
                                 </li>
                                 <li class="breadcrumb-item">
-                                    <a href="/en/services" title="">Services</a>
+                                    <a href="#" title="">Services</a>
                                 </li>
-                                <li class="breadcrumb-item"><a>MED &amp; USA Service (USM)</a></li>
+                                <li class="breadcrumb-item"><a>Israel Service (TIES)</a></li>
+                             
                             </ol>
                         </nav>
                     </div>
@@ -31,21 +32,22 @@
                     <div class="general-content border-2">
 
                         <!--Stop watch başladı.-->
-                        <h1 class="searchTitle">MED &amp; USA Service (USM)</h1>
+                        <h1 class="searchTitle">Israel Service (TIES)</h1>
                         <div class="border-4 border-bottom pt-4 mb-4"></div>
                         <div class="mt-4 text-secondary fst-italic fs-5">
                         </div>
                         <div class="col-12 mt-5">
-                            <img src="assets/images/med-usa/med-abd.jpg" alt="MED &amp; USA Service (USM)"
-                                loading="lazy" width="100%" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg"
+                                alt="MED &amp; USA Service (USM)" loading="lazy" width="100%" data-bs-toggle="modal"
+                                data-bs-target="#staticBackdrop">
                             <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static"
                                 data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel"
                                 aria-hidden="true">
                                 <div class="modal-dialog modal-xl">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img src="assets/images/med-usa/med-abd.jpg" alt="MED &amp; USA Service (USM)"
-                                                loading="lazy" width="100%">
+                                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg"
+                                                alt="MED &amp; USA Service (USM)" loading="lazy" width="100%">
                                         </div>
                                         <div class="modal-footer ">
                                             <div class="border border-3 border-dark rounded-circle p-1">
@@ -73,7 +75,6 @@
                                     <li>Seasonal direct USA-Iskenderun call option</li>
                                     <li>Connection to West Mediterranean</li>
                                 </ul>
-
                                 <p><strong>Main Service</strong></p>
 
                                 <p><strong>Transit Times</strong></p>
@@ -81,265 +82,91 @@
                                 <table class="custom-table">
                                     <tbody>
                                         <tr>
-                                            <th style="width: 127px;">EastBound</th>
-                                            <th><strong>New York</strong></th>
-                                            <th><strong>Norfolk</strong></th>
-                                            <th><strong>Savannah</strong></th>
-                                        </tr>
-                                        <tr>
-                                            <th>Mersin</th>
-                                            <td>19</td>
-                                            <td>17</td>
-                                            <td>15</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Istanbul</th>
-                                            <td>22</td>
-                                            <td>20</td>
-                                            <td>18</td>
-                                        </tr>
-                                        <tr>
+                                            <th style="width: 127px;"><strong>EastBound</strong></th>
+                                            <th>Iskenderun</th>
                                             <th>Izmit</th>
-                                            <td>23</td>
-                                            <td>21</td>
-                                            <td>19</td>
-                                        </tr>
-                                        <tr>
                                             <th>Gemlik</th>
-                                            <td>24</td>
-                                            <td>22</td>
-                                            <td>20</td>
-                                        </tr>
-                                        <tr>
+                                            <th>Istanbul</th>
                                             <th>Izmir</th>
-                                            <td>25</td>
-                                            <td>23</td>
-                                            <td>21</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                                <p></p>
-
-                                <table class="custom-table">
-                                    <tbody>
-                                        <tr>
-                                            <th style="width: 127px;">WestBound</th>
-                                            <th><strong>Mersin</strong></th>
-                                            <th><strong>Istanbul</strong></th>
-                                            <th><strong>Izmit </strong></th>
-                                            <th><strong>Gemlik</strong></th>
-                                            <th><strong>Izmir</strong></th>
-                                            <th><strong>Algeciras</strong></th>
+                                            <th></th>
                                         </tr>
                                         <tr>
-                                            <th>Algeciras</th>
-                                            <td>10</td>
-                                            <td>7</td>
-                                            <td>6</td>
+                                            <th><strong>Alexandria</strong></th>
                                             <td>5</td>
-                                            <td>4</td>
+                                            <td>9</td>
+                                            <td>10</td>
+                                            <td>12</td>
+                                            <td>14</td>
                                             <td></td>
                                         </tr>
                                         <tr>
-                                            <th>New York</th>
-                                            <td>20</td>
-                                            <td>17</td>
-                                            <td>16</td>
-                                            <td>15</td>
-                                            <td>14</td>
+                                            <th><strong>Port Said&nbsp;</strong></th>
+                                            <td>3</td>
+                                            <td>7</td>
+                                            <td>8</td>
                                             <td>10</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Norfolk</th>
-                                            <td>22</td>
-                                            <td>19</td>
-                                            <td>18</td>
-                                            <td>17</td>
-                                            <td>16</td>
                                             <td>12</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Savannah</th>
-                                            <td>24</td>
-                                            <td>21</td>
-                                            <td>20</td>
-                                            <td>19</td>
-                                            <td>18</td>
-                                            <td>14</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                                <p></p>
-
-                                <p></p>
-
-                                <p><strong>Feeder Connections</strong></p>
-
-                                <p><strong>Transit Times</strong></p>
-
-                                <table class="custom-table">
-                                    <tbody>
-                                        <tr>
-                                            <th style="width: 127px;">EastBound</th>
-                                            <th><strong>New York</strong></th>
-                                            <th><strong>Norfolk</strong></th>
-                                            <th><strong>Savannah</strong></th>
-                                        </tr>
-                                        <tr>
-                                        </tr>
-                                        <tr>
-                                            <th>Haifa</th>
-                                            <td>37</td>
-                                            <td>35</td>
-                                            <td>33</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Ashdod</th>
-                                            <td>39</td>
-                                            <td>37</td>
-                                            <td>35</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Odessa</th>
-                                            <td>31</td>
-                                            <td>29</td>
-                                            <td>27</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Constanta</th>
-                                            <td>28</td>
-                                            <td>26</td>
-                                            <td>24</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Poti</th>
-                                            <td>30</td>
-                                            <td>28</td>
-                                            <td>26</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Alexandria</th>
-                                            <td>35</td>
-                                            <td>33</td>
-                                            <td>31</td>
-                                        </tr>
-                                        <tr>
-                                            <th>Port Said</th>
-                                            <td>38</td>
-                                            <td>36</td>
-                                            <td>34</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                             <th>Beirut</th>
-                                            <td>40</td>
-                                            <td>38</td>
-                                            <td>36</td>
+                                            <td>1</td>
+                                            <td>5</td>
+                                            <td>6</td>
+                                            <td>8</td>
+                                            <td>10</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
                                         </tr>
                                     </tbody>
                                 </table>
 
                                 <p></p>
-
-                                <p></p>
-
                                 <table class="custom-table">
                                     <tbody>
                                         <tr>
-                                            <th style="width: 127px;">WestBound</th>
+                                            <th style="width: 127px;"><strong>WestBound</strong></th>
                                             <th><strong>Alexandria</strong></th>
                                             <th><strong>Port Said</strong></th>
                                             <th><strong>Beirut</strong></th>
-                                            <th><strong>Haifa</strong></th>
-                                            <th><strong>Ashdod</strong></th>
-                                            <th>Constanta</th>
-                                            <th>Poti</th>
-                                            <th><strong>Odessa</strong></th>
-                                            <th>Bilbao</th>
-                                            <th><strong>Casablanca</strong></th>
-                                            <th>Tangier</th>
-                                            <th>Leixoes</th>
-                                            <th>Vigo</th>
-                                            <th>Lisbon</th>
                                         </tr>
                                         <tr>
-                                            <th>Algeciras</th>
-                                            <td>18</td>
-                                            <td>16</td>
-                                            <td>15</td>
-                                            <td>15</td>
+                                            <th><strong>Izmit</strong></th>
+                                            <td>9</td>
+                                            <td>11</td>
                                             <td>13</td>
-                                            <td>13</td>
-                                            <td>14</td>
-                                            <td>13</td>
-                                            <td>17</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Gemlik</strong></th>
+                                            <td>8</td>
+                                            <td>10</td>
+                                            <td>12</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Istanbul</strong></th>
                                             <td>7</td>
+                                            <td>9</td>
+                                            <td>11</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Izmir</strong></th>
                                             <td>5</td>
-                                            <td>4</td>
+                                            <td>7</td>
+                                            <td>9</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Iskenderun</strong></th>
                                             <td>3</td>
-                                            <td>2</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>New York</strong></th>
-                                            <td>28</td>
-                                            <td>26</td>
-                                            <td>25</td>
-                                            <td>25</td>
-                                            <td>23</td>
-                                            <td>23</td>
-                                            <td>24</td>
-                                            <td>23</td>
-                                            <td>32</td>
-                                            <td>22</td>
-                                            <td>20</td>
-                                            <td>20</td>
-                                            <td>18</td>
-                                            <td>17</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Norfolk</strong></th>
-                                            <td>30</td>
-                                            <td>28</td>
-                                            <td>27</td>
-                                            <td>27</td>
-                                            <td>25</td>
-                                            <td>25</td>
-                                            <td>26</td>
-                                            <td>25</td>
-                                            <td>34</td>
-                                            <td>24</td>
-                                            <td>22</td>
-                                            <td>22</td>
-                                            <td>20</td>
-                                            <td>19</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Savannah</strong></th>
-                                            <td>32</td>
-                                            <td>30</td>
-                                            <td>29</td>
-                                            <td>29</td>
-                                            <td>27</td>
-                                            <td>27</td>
-                                            <td>28</td>
-                                            <td>27</td>
-                                            <td>36</td>
-                                            <td>26</td>
-                                            <td>24</td>
-                                            <td>24</td>
-                                            <td>22</td>
-                                            <td>21</td>
+                                            <td>5</td>
+                                            <td>7</td>
                                         </tr>
                                     </tbody>
                                 </table>
-
-                                <p></p>
 
                             </div>
 
                         </div>
-    
 
                         <!--Stop watch başladı.-->
                         <div class="my-3">
@@ -351,8 +178,7 @@
                                     <div class="card mb-3 custom-card">
                                         <div class="card-body bg-light rounded-2 w-100 padding-card">
                                             <p class="fs-12">MED &amp; USA Service (USM) Flyer</p>
-                                            <a href="/documents/Servisler/Servis_Flyer%20En/usm-med-usa-service-flyer.pdf"
-                                                class="card-link" aria-label="link" target="_blank"><i
+                                            <a href="#" class="card-link" aria-label="link" target="_blank"><i
                                                     class="fa fa-arrow-down text-danger"></i></a>
                                         </div>
                                     </div>
@@ -361,8 +187,7 @@
                                     <div class="card mb-3 custom-card">
                                         <div class="card-body bg-light rounded-2 w-100 padding-card">
                                             <p class="fs-12">USM Weekly Schedule</p>
-                                            <a href="/documents/Servisler/04_usm-weekly-schedule.pdf" class="card-link"
-                                                aria-label="link" target="_blank"><i
+                                            <a href="#" class="card-link" aria-label="link" target="_blank"><i
                                                     class="fa fa-arrow-down text-danger"></i></a>
                                         </div>
                                     </div>
@@ -370,34 +195,33 @@
                             </div>
 
                         </div>
-     
 
-                        <!--Stop watch başladı.-->
                         <!--Stop watch başladı.-->
                         <div class="row border-4 border-bottom pb-3 mt-5">
                             <h4>Other Services</h4>
                         </div>
                         <div class="row mt-4">
+                            <!-- 1 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Egypt &amp; Lebanon Service
-                                                (TEL)</span></a>
+                                        <a href="#"><span class="centered-text">MED &amp; USA Service (USM)</span></a>
                                     </div>
                                     <img class="card-img" src="assets/images/med-usa/port-sait.jpg"
                                         alt="Egypt &amp; Lebanon Service (TEL)">
                                 </div>
                             </div>
+                            <!-- 2 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Israel
-                                                Service (TIES)</span></a>
+                                        <a href="#"><span class="centered-text">Israel Service (TIES)</span></a>
                                     </div>
                                     <img class="card-img" src="assets/images/med-usa/websitesibannercalismasi_haifa.jpg"
                                         alt="Israel Service (TIES)">
                                 </div>
                             </div>
+                            <!-- 3 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
@@ -408,6 +232,7 @@
                                         alt="Northern European Service (NWC)">
                                 </div>
                             </div>
+                            <!-- 4 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
@@ -419,6 +244,7 @@
                                         alt="France &amp; Spain Service (ASA)">
                                 </div>
                             </div>
+                            <!-- 5 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
@@ -430,35 +256,34 @@
                                         alt="Ukraine &amp; Romania Service (TUR)">
                                 </div>
                             </div>
+                            <!-- 6 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Italy
-                                                Service (ITE)</span></a>
+                                        <a href="#"><span class="centered-text">Italy Service (ITE)</span></a>
                                     </div>
                                     <img class="card-img" src="assets/images/med-usa/talya-servisi-ite.jpg"
                                         alt="Italy Service (ITE)">
                                 </div>
                             </div>
+                            <!-- 7 -->
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Georgia
-                                                Service (TGR)</span></a>
+                                        <a href="#"><span class="centered-text">Georgia Service (TGR)</span></a>
                                     </div>
                                     <img class="card-img" src="assets/images/med-usa/gurcistan-servisi-tgr.jpg"
                                         alt="Georgia Service (TGR)">
                                 </div>
                             </div>
                         </div>
-    
 
                     </div>
                 </div>
                 <div class="col-3 d-none d-xl-block border-start">
                     <!--Stop watch başladı.-->
 
-                     <div class="ml-md-3 aside text-secondary">
+                    <div class="ml-md-3 aside text-secondary">
                         <h3 class="aside-header ps-2 fs-18 text-secondary m-0"></h3>
                         <div class="d-flex flex-column">
 
