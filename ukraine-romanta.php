@@ -18,12 +18,13 @@
                             <ol class="breadcrumb">
 
                                 <li class="breadcrumb-item">
-                                    <a href="/en" title="">Homepage</a>
+                                    <a href="#" title="">Homepage</a>
                                 </li>
                                 <li class="breadcrumb-item">
-                                    <a href="/en/services" title="">Services</a>
+                                    <a href="#" title="">Services</a>
                                 </li>
-                                <li class="breadcrumb-item"><a>Egypt &amp; Lebanon Service (TEL)</a></li>
+                                <li class="breadcrumb-item"><a>Ukraine & Romania Service (TUR)</a></li>
+
                             </ol>
                         </nav>
                     </div>
@@ -31,21 +32,22 @@
                     <div class="general-content border-2">
 
                         <!--Stop watch başladı.-->
-                        <h1 class="searchTitle">MED &amp; USA Service (USM)</h1>
+                        <h1 class="searchTitle">Ukraine & Romania Service (TUR) </h1>
                         <div class="border-4 border-bottom pt-4 mb-4"></div>
                         <div class="mt-4 text-secondary fst-italic fs-5">
                         </div>
                         <div class="col-12 mt-5">
-                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg" alt="MED &amp; USA Service (USM)"
-                                loading="lazy" width="100%" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                            <img src="assets/images/services/turkiye-ukrayna-romanya-servisi.jpg"
+                                alt="MED &amp; USA Service (USM)" loading="lazy" width="100%" data-bs-toggle="modal"
+                                data-bs-target="#staticBackdrop">
                             <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static"
                                 data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel"
                                 aria-hidden="true">
                                 <div class="modal-dialog modal-xl">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg" alt="MED &amp; USA Service (USM)"
-                                                loading="lazy" width="100%">
+                                            <img src=" assets/images/services/turkiye-ukrayna-romanya-servisi.jpg"
+                                                alt="MED &amp; USA Service (USM)" loading="lazy" width="100%">
                                         </div>
                                         <div class="modal-footer ">
                                             <div class="border border-3 border-dark rounded-circle p-1">
@@ -62,60 +64,27 @@
                                 <p><strong>Our Strengths</strong></p>
 
                                 <ul>
-                                    <li>Direct Türkiye-USA East Coast (USEC) service</li>
-                                    <li>Shortest transit times between Türkiye, USEC</li>
-                                    <li>Wide port coverage at both sides of the trade</li>
-                                    <li>Strong and wide inland transport network</li>
-                                    <li>Fast Odessa*, Constanta, Beirut, Ashdod, Haifa, Poti, Alexandria ve Port Said
-                                        connections via Türkiye.&nbsp;&nbsp;(*Odessa suspended.)</li>
-                                    <li>Fast Odessa, Constanta, Beirut, Ashdod, Haifa connections via Mersin, Istanbul*
-                                    </li>
-                                    <li>Seasonal direct USA-Iskenderun call option</li>
-                                    <li>Connection to West Mediterranean</li>
+                                    <li>Fast and effective direct Black Sea - Istanbul service</li>
+                                    <li>Weekly, reliable and regular service</li>
+                                    <li>Smooth, fast and precise connections to North Europe, East Mediterranean, USA
+                                        services</li>
                                 </ul>
-                                <p><strong>Main Service</strong></p>
 
                                 <p><strong>Transit Times</strong></p>
 
                                 <table class="custom-table">
                                     <tbody>
                                         <tr>
-                                            <th style="width: 127px;"><strong>EastBound</strong></th>
-                                            <th>Iskenderun</th>
-                                            <th>Izmit</th>
-                                            <th>Gemlik</th>
-                                            <th>Istanbul</th>
-                                            <th>Izmir</th>
-                                            <th></th>
+                                            <th nowrap="nowrap" style="width: 127px;"><strong>EastBound</strong></th>
+                                            <th nowrap="nowrap"><strong>Istanbul</strong></th>
                                         </tr>
                                         <tr>
-                                            <th><strong>Alexandria</strong></th>
-                                            <td>5</td>
-                                            <td>9</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                            <td>14</td>
-                                            <td></td>
+                                            <th nowrap="nowrap"><strong>Odessa</strong></th>
+                                            <td nowrap="nowrap">3</td>
                                         </tr>
                                         <tr>
-                                            <th><strong>Port Said&nbsp;</strong></th>
-                                            <td>3</td>
-                                            <td>7</td>
-                                            <td>8</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <th>Beirut</th>
-                                            <td>1</td>
-                                            <td>5</td>
-                                            <td>6</td>
-                                            <td>8</td>
-                                            <td>10</td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
+                                            <th nowrap="nowrap">Constanta</th>
+                                            <td nowrap="nowrap">2</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -124,40 +93,14 @@
                                 <table class="custom-table">
                                     <tbody>
                                         <tr>
-                                            <th style="width: 127px;"><strong>WestBound</strong></th>
-                                            <th><strong>Alexandria</strong></th>
-                                            <th><strong>Port Said</strong></th>
-                                            <th><strong>Beirut</strong></th>
+                                            <th nowrap="nowrap" style="width: 127px;"><strong>WestBound</strong></th>
+                                            <th nowrap="nowrap"><strong>Odessa</strong></th>
+                                            <th nowrap="nowrap">Constanta</th>
                                         </tr>
                                         <tr>
-                                            <th><strong>Izmit</strong></th>
-                                            <td>9</td>
-                                            <td>11</td>
-                                            <td>13</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Gemlik</strong></th>
-                                            <td>8</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Istanbul</strong></th>
-                                            <td>7</td>
-                                            <td>9</td>
-                                            <td>11</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Izmir</strong></th>
-                                            <td>5</td>
-                                            <td>7</td>
-                                            <td>9</td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Iskenderun</strong></th>
-                                            <td>3</td>
-                                            <td>5</td>
-                                            <td>7</td>
+                                            <th nowrap="nowrap"><strong>Istanbul</strong></th>
+                                            <td nowrap="nowrap">3</td>
+                                            <td nowrap="nowrap">&nbsp;2</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -175,7 +118,7 @@
                                 <div class="col-lg-3 col-6 padding-card">
                                     <div class="card mb-3 custom-card">
                                         <div class="card-body bg-light rounded-2 w-100 padding-card">
-                                            <p class="fs-12">MED &amp; USA Service (USM) Flyer</p>
+                                            <p class="fs-12">Ukraine &amp; Romania Service (TUR) Flyer</p>
                                             <a href="#" class="card-link" aria-label="link" target="_blank"><i
                                                     class="fa fa-arrow-down text-danger"></i></a>
                                         </div>
@@ -184,12 +127,13 @@
                                 <div class="col-lg-3 col-6 padding-card">
                                     <div class="card mb-3 custom-card">
                                         <div class="card-body bg-light rounded-2 w-100 padding-card">
-                                            <p class="fs-12">USM Weekly Schedule</p>
+                                            <p class="fs-12">TUR Weekly Schedule</p>
                                             <a href="#" class="card-link" aria-label="link" target="_blank"><i
                                                     class="fa fa-arrow-down text-danger"></i></a>
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
 
                         </div>
@@ -213,9 +157,10 @@
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Israel Service (TIES)</span></a>
+                                        <a href="#"><span class="centered-text">Egypt & Lebanon Service (TEL)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/services/websitesibannercalismasi_haifa.jpg"
+                                    <img class="card-img"
+                                        src="assets/images/services/websitesibannercalismasi_haifa.jpg"
                                         alt="Israel Service (TIES)">
                                 </div>
                             </div>
@@ -223,7 +168,7 @@
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="/#"><span class="centered-text">Northern European Service (NWC)</span></a>
+                                        <a href="/#"><span class="centered-text">Israel Service (TIES)</span></a>
                                     </div>
                                     <img class="card-img" src="assets/images/services/kuzey-avrupa-servisi-nwc.jpg"
                                         alt="Northern European Service (NWC)">
@@ -233,7 +178,8 @@
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">France &amp; Spain Service (ASA)</span></a>
+                                        <a href="#"><span class="centered-text">Northern European Service
+                                                (NWC)</span></a>
                                     </div>
                                     <img class="card-img"
                                         src="assets/images/services/web_sitesi_banner_calismasi_fransaispanya.jpg"
@@ -244,7 +190,8 @@
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Ukraine &amp; Romania Service (TUR)</span></a>
+                                        <a href="#"><span class="centered-text">France &amp; Spain Service
+                                                (ASA)</span></a>
                                     </div>
                                     <img class="card-img"
                                         src="assets/images/services/websitesibannercalismasi_constanta2.jpg"
@@ -270,7 +217,7 @@
                                     <img class="card-img" src="assets/images/services/gurcistan-servisi-tgr.jpg"
                                         alt="Georgia Service (TGR)">
                                 </div>
-                            </div>  
+                            </div>
                         </div>
 
                     </div>
@@ -328,12 +275,11 @@
 
                             <div class="card-body linear-red custom-card">
                                 <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Award to Turkon Line from Bulutistan</h4>
+                                    <h4 class="card-title mb-3 text-white">Capacity Increase From Turkon Line</h4>
                                     <p class="card-text m-0 text-white pe-2">
-                                        Bulutistan, which grows as a Turkish company that produces its own software and
-                                        solutions and has strong R&amp;D hardware; The "Bulutistan Customer Summit
-                                        2023", which was started while celebrating the 100th anniversary of our Republic
-                                        and will become a tradition, brought together the Turkish IT industr </p>
+                                        For over 25 years, Turkon Line has been providing maritime transportation
+                                        services in the markets of America, Europe, the Mediterranean, and the Black
+                                        Sea. </p>
                                 </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
@@ -358,12 +304,11 @@
                                     class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
                             <div class="card-body linear-red custom-card">
-                                <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Second Hand Automotive &amp; Spare Parts</h4>
-                                    <p class="card-text m-0 text-white pe-2">
-                                        Turkon Line delivers the product from the spare parts manufacturers to
-                                        automotive manufacturers on time. </p>
-                                </div>
+                            <div class="card-bar card-content-border">
+                            <h4 class="card-title mb-3 text-white">Cotton</h4>
+                            <p class="card-text m-0 text-white pe-2">
+Cotton is a raw material that is essential for clothing, household goods, medical supplies, and many other products. Since the early stages of civilization, this product has been at the heart of global trade and has become a key commodity in the global economy.                            </p>
+                        </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
                                         class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"
@@ -383,15 +328,11 @@
                                     class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
                             <div class="card-body linear-red custom-card">
-                                <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Demurrage</h4>
-                                    <p class="card-text m-0 text-white pe-2">
-                                        If the containers supplied by the carrier are not returned to the carrier after
-                                        being unloaded by the consignee within the free time specified in the tariff,
-                                        the delay fee which the carrier has the right to demand from the consignee or
-                                        the shipper in accordance with the provisions of the bill of lading, and which
-                                        is processed for each day of delay, is called “container demurrage”. </p>
-                                </div>
+                            <div class="card-bar card-content-border">
+                            <h4 class="card-title mb-3 text-white">Demurrage</h4>
+                            <p class="card-text m-0 text-white pe-2">
+If the containers supplied by the carrier are not returned to the carrier after being unloaded by the consignee within the free time specified in the tariff, the delay fee which the carrier has the right to demand from the consignee or the shipper in accordance with the provisions of the bill of lading, and which is processed for each day of delay, is called “container demurrage”.                            </p>
+                        </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
                                         class="btn-sm bg-white d-flex justify-content-center align-items-start p-2"

@@ -24,7 +24,7 @@
                                     <a href="#" title="">Services</a>
                                 </li>
                                 <li class="breadcrumb-item"><a>Israel Service (TIES)</a></li>
-                             
+
                             </ol>
                         </nav>
                     </div>
@@ -37,7 +37,7 @@
                         <div class="mt-4 text-secondary fst-italic fs-5">
                         </div>
                         <div class="col-12 mt-5">
-                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg"
+                            <img src=" assets/images/services/turkiye-srail-servisi-ties.jpg"
                                 alt="MED &amp; USA Service (USM)" loading="lazy" width="100%" data-bs-toggle="modal"
                                 data-bs-target="#staticBackdrop">
                             <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static"
@@ -46,7 +46,7 @@
                                 <div class="modal-dialog modal-xl">
                                     <div class="modal-content">
                                         <div class="modal-body">
-                                            <img src="assets/images/egypt-lebanon/turkiye-misir-lubnan-servisi-tel.jpg"
+                                            <img src=" assets/images/services/turkiye-srail-servisi-ties.jpg"
                                                 alt="MED &amp; USA Service (USM)" loading="lazy" width="100%">
                                         </div>
                                         <div class="modal-footer ">
@@ -64,16 +64,12 @@
                                 <p><strong>Our Strengths</strong></p>
 
                                 <ul>
-                                    <li>Direct Türkiye-USA East Coast (USEC) service</li>
-                                    <li>Shortest transit times between Türkiye, USEC</li>
-                                    <li>Wide port coverage at both sides of the trade</li>
-                                    <li>Strong and wide inland transport network</li>
-                                    <li>Fast Odessa*, Constanta, Beirut, Ashdod, Haifa, Poti, Alexandria ve Port Said
-                                        connections via Türkiye.&nbsp;&nbsp;(*Odessa suspended.)</li>
-                                    <li>Fast Odessa, Constanta, Beirut, Ashdod, Haifa connections via Mersin, Istanbul*
-                                    </li>
-                                    <li>Seasonal direct USA-Iskenderun call option</li>
-                                    <li>Connection to West Mediterranean</li>
+                                    <li>Türkiye-Israel dedicated, fast and reliable weekly service</li>
+                                    <li>Fast and effective connection between Gazimagusa-Türkiye</li>
+                                    <li>Weekly, fix-day departure services with Friday cut-off from Mamara and Mersin
+                                        ports<br>
+                                        Short transit times on almost all respective corridors</li>
+                                    <li>More than 20 years of experience and expertise in the trade</li>
                                 </ul>
                                 <p><strong>Main Service</strong></p>
 
@@ -83,39 +79,35 @@
                                     <tbody>
                                         <tr>
                                             <th style="width: 127px;"><strong>EastBound</strong></th>
-                                            <th>Iskenderun</th>
-                                            <th>Izmit</th>
-                                            <th>Gemlik</th>
-                                            <th>Istanbul</th>
-                                            <th>Izmir</th>
-                                            <th></th>
+                                            <th><strong>Istanbul Kumport</strong></th>
+                                            <th><strong>Gemlik Borusan</strong></th>
+                                            <th><strong>Izmit Evyap</strong></th>
+                                            <th><strong>Izmir Aliaga / Socar</strong></th>
+                                            <th><strong>Mersin MIP</strong></th>
                                         </tr>
                                         <tr>
-                                            <th><strong>Alexandria</strong></th>
-                                            <td>5</td>
-                                            <td>9</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                            <td>14</td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <th><strong>Port Said&nbsp;</strong></th>
-                                            <td>3</td>
-                                            <td>7</td>
-                                            <td>8</td>
-                                            <td>10</td>
-                                            <td>12</td>
-                                            <td></td>
-                                        </tr>
-                                        <tr>
-                                            <th>Beirut</th>
-                                            <td>1</td>
+                                            <th><strong>Haifa</strong></th>
                                             <td>5</td>
                                             <td>6</td>
-                                            <td>8</td>
+                                            <td>7</td>
+                                            <td>9</td>
+                                            <td>11</td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Ashdod</strong></th>
+                                            <td>3</td>
+                                            <td>4</td>
+                                            <td>5</td>
+                                            <td>7</td>
                                             <td>10</td>
-                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <th><strong>Famagusta*</strong></th>
+                                            <td>2</td>
+                                            <td>3</td>
+                                            <td>4</td>
+                                            <td>6</td>
+                                            <td>9</td>
                                         </tr>
                                         <tr>
                                         </tr>
@@ -183,15 +175,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-3 col-6 padding-card">
-                                    <div class="card mb-3 custom-card">
-                                        <div class="card-body bg-light rounded-2 w-100 padding-card">
-                                            <p class="fs-12">USM Weekly Schedule</p>
-                                            <a href="#" class="card-link" aria-label="link" target="_blank"><i
-                                                    class="fa fa-arrow-down text-danger"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
 
                         </div>
@@ -207,7 +191,7 @@
                                     <div class="grad1">
                                         <a href="#"><span class="centered-text">MED &amp; USA Service (USM)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/med-usa/port-sait.jpg"
+                                    <img class="card-img" src="assets/images/services/port-sait.jpg"
                                         alt="Egypt &amp; Lebanon Service (TEL)">
                                 </div>
                             </div>
@@ -215,9 +199,10 @@
                             <div class="col-lg-4 col-12 mb-4">
                                 <div class="card-container">
                                     <div class="grad1">
-                                        <a href="#"><span class="centered-text">Israel Service (TIES)</span></a>
+                                        <a href="#"><span class="centered-text">Egypt & Lebanon Service (TEL)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/med-usa/websitesibannercalismasi_haifa.jpg"
+                                    <img class="card-img"
+                                        src="assets/images/services/websitesibannercalismasi_haifa.jpg"
                                         alt="Israel Service (TIES)">
                                 </div>
                             </div>
@@ -228,7 +213,7 @@
                                         <a href="/#"><span class="centered-text">Northern European Service
                                                 (NWC)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/med-usa/kuzey-avrupa-servisi-nwc.jpg"
+                                    <img class="card-img" src="assets/images/services/kuzey-avrupa-servisi-nwc.jpg"
                                         alt="Northern European Service (NWC)">
                                 </div>
                             </div>
@@ -240,7 +225,7 @@
                                                 (ASA)</span></a>
                                     </div>
                                     <img class="card-img"
-                                        src="assets/images/med-usa/web_sitesi_banner_calismasi_fransaispanya.jpg"
+                                        src="assets/images/services/web_sitesi_banner_calismasi_fransaispanya.jpg"
                                         alt="France &amp; Spain Service (ASA)">
                                 </div>
                             </div>
@@ -252,7 +237,7 @@
                                                 (TUR)</span></a>
                                     </div>
                                     <img class="card-img"
-                                        src="assets/images/med-usa/websitesibannercalismasi_constanta2.jpg"
+                                        src="assets/images/services/websitesibannercalismasi_constanta2.jpg"
                                         alt="Ukraine &amp; Romania Service (TUR)">
                                 </div>
                             </div>
@@ -262,7 +247,7 @@
                                     <div class="grad1">
                                         <a href="#"><span class="centered-text">Italy Service (ITE)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/med-usa/talya-servisi-ite.jpg"
+                                    <img class="card-img" src="assets/images/services/talya-servisi-ite.jpg"
                                         alt="Italy Service (ITE)">
                                 </div>
                             </div>
@@ -272,7 +257,7 @@
                                     <div class="grad1">
                                         <a href="#"><span class="centered-text">Georgia Service (TGR)</span></a>
                                     </div>
-                                    <img class="card-img" src="assets/images/med-usa/gurcistan-servisi-tgr.jpg"
+                                    <img class="card-img" src="assets/images/services/gurcistan-servisi-tgr.jpg"
                                         alt="Georgia Service (TGR)">
                                 </div>
                             </div>
@@ -322,23 +307,21 @@
                     <div class="mb-3">
                         <div class="card text-white h-5">
                             <picture>
-                                <source srcset="assets/images/med-usa/yeniwebsitehaberlerkapaklar_2_en.jpg"
+                                <source srcset="assets/images/services/yeniwebsitehaberlerkapaklar_2_en.jpg"
                                     media="(min-width: 769px)">
-                                <source srcset="assets/images/med-usa/yeniwebsitehaberlerkapaklar_2_en.jpg"
+                                <source srcset="assets/images/services/yeniwebsitehaberlerkapaklar_2_en.jpg"
                                     media="(max-width: 768px)">
-                                <img src="assets/images/med-usa/yeniwebsitehaberlerkapaklar_2_en.jpg"
+                                <img src="assets/images/services/yeniwebsitehaberlerkapaklar_2_en.jpg"
                                     alt="Turkon Live Support is currently live  on the Web Site…"
                                     class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
 
                             <div class="card-body linear-red custom-card">
                                 <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Award to Turkon Line from Bulutistan</h4>
+                                    <h4 class="card-title mb-3 text-white">Turkon Live Support is currently live on the
+                                        Web Site…</h4>
                                     <p class="card-text m-0 text-white pe-2">
-                                        Bulutistan, which grows as a Turkish company that produces its own software and
-                                        solutions and has strong R&amp;D hardware; The "Bulutistan Customer Summit
-                                        2023", which was started while celebrating the 100th anniversary of our Republic
-                                        and will become a tradition, brought together the Turkish IT industr </p>
+                                        “Turkon Live” is Currently Live, as the Ocean Currents Flow! </p>
                                 </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
@@ -354,20 +337,20 @@
                     <div class="mb-3">
                         <div class="card text-white h-5">
                             <picture>
-                                <source srcset="assets/images/med-usa/paketlememalzemelesiplastikurunlerhurda11.jpg"
+                                <source srcset="assets/images/services/paketlememalzemelesiplastikurunlerhurda11.jpg"
                                     media="(min-width: 769px)">
-                                <source srcset="assets/images/med-usa/paketlememalzemelesiplastikurunlerhurda11.jpg"
+                                <source srcset="assets/images/services/paketlememalzemelesiplastikurunlerhurda11.jpg"
                                     media="(max-width: 768px)">
-                                <img src="assets/images/med-usa/paketlememalzemelesiplastikurunlerhurda11.jpg"
+                                <img src="assets/images/services/paketlememalzemelesiplastikurunlerhurda11.jpg"
                                     alt="Packaging Material, Plastic Products &amp; Scrap"
                                     class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
                             <div class="card-body linear-red custom-card">
                                 <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Second Hand Automotive &amp; Spare Parts</h4>
+                                    <h4 class="card-title mb-3 text-white">Pulp &amp; Forest Products</h4>
                                     <p class="card-text m-0 text-white pe-2">
-                                        Turkon Line delivers the product from the spare parts manufacturers to
-                                        automotive manufacturers on time. </p>
+                                        Paper pulp and forest products are among the indispensable industries of today
+                                        and are widely needed all over the world. </p>
                                 </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
@@ -382,20 +365,18 @@
                     <div class="mb-3">
                         <div class="card text-white h-5">
                             <picture>
-                                <source srcset="assets/images/med-usa/demuraj.jpg" media="(min-width: 769px)">
-                                <source srcset="assets/images/med-usa/demuraj.jpg" media="(max-width: 768px)">
-                                <img src="assets/images/med-usa/demuraj.jpg" alt="Demurrage"
+                                <source srcset="assets/images/services/demuraj.jpg" media="(min-width: 769px)">
+                                <source srcset="assets/images/services/demuraj.jpg" media="(max-width: 768px)">
+                                <img src="assets/images/services/demuraj.jpg" alt="Demurrage"
                                     class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
                             <div class="card-body linear-red custom-card">
                                 <div class="card-bar card-content-border">
-                                    <h4 class="card-title mb-3 text-white">Demurrage</h4>
+                                    <h4 class="card-title mb-3 text-white">BAF</h4>
                                     <p class="card-text m-0 text-white pe-2">
-                                        If the containers supplied by the carrier are not returned to the carrier after
-                                        being unloaded by the consignee within the free time specified in the tariff,
-                                        the delay fee which the carrier has the right to demand from the consignee or
-                                        the shipper in accordance with the provisions of the bill of lading, and which
-                                        is processed for each day of delay, is called “container demurrage”. </p>
+                                        The BAF tariff will be reviewed quarterly and will be adjusted according to
+                                        actual fuel price change compared to previous adjustment. If the fuel price
+                                        change is more than USD 40 then the BAF tariffs will be applied monthly. </p>
                                 </div>
                                 <div class="d-flex justify-content-end w-100 pos-icon">
                                     <a href="#"
