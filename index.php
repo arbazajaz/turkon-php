@@ -32,7 +32,7 @@ Cotton; </font><font style="vertical-align: inherit;">It is a raw material requi
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/sektorel-cozumler/pamuk" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -52,7 +52,7 @@ Food and agriculture are among the basic sectors that have always been important
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/sektorel-cozumler/gida-and-tarim" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -72,7 +72,7 @@ Paper pulp and forest products are among today's indispensable sectors that are 
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/sektorel-cozumler/kagit-hamuru-and-orman-urunleri" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -108,7 +108,7 @@ Bill of Lading is a bill of lading that proves that a transportation contract ha
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/destek-cozumler/deniz-yolu-tasimaciligi-terimleri" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ If the containers supplied by the Carrier are not returned to the Carrier by unl
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/destek-cozumler/demuraj" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -148,7 +148,7 @@ Fuel expenses of ships will be determined according to the volume and trade bala
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/destek-cozumler/baf" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -168,7 +168,7 @@ Containers on ships used for export purposes are weighed by authorized weighing 
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/cozumler/destek-cozumler/dba-dogrulanmis-brut-agirlik-vgm" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -185,18 +185,18 @@ Containers on ships used for export purposes are weighed by authorized weighing 
         <div class="row">
                 <div class="col-12 col-lg-4 mb-4">
                     <div class="card text-white h-5">
-                            <picture><img src="assets/images/news/eisbeinessen-2023.jpg" alt="Turkon participated in Germany Eisbeinessen 2023" class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
+                            <picture><img src="assets/images/news/eisbeinessen-2023.jpg" alt="bosfor participated in Germany Eisbeinessen 2023" class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
 
                         <div class="card-body linear-red custom-card">
                             <div class="card-bar card-content-border">
-                                <h4 class="card-title mb-3 text-white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Turkon participated in Germany Eisbeinessen 2023</font></font></h4>
+                                <h4 class="card-title mb-3 text-white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bosfor participated in Germany Eisbeinessen 2023</font></font></h4>
                                 <p class="card-text m-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 "Eisbeinessen 2023", one of the most important organizations of the maritime industry, was held in Hamburg on November 10, 2023, with the participation of more than 2500 industry representatives from around the world.                                 </font></font></p>
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
-                                <a href="/tr/kurumsal/haberler/turkon-almanya-eisbeinessen-2023e-katildi" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                <a href="/tr/kurumsal/haberler/bosfor-almanya-eisbeinessen-2023e-katildi" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -216,7 +216,7 @@ Our nationals made history and became second in the world. </font><font style="v
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
                                 <a href="/tr/kurumsal/haberler/kadin-bric-milli-takimimiz-gumus-tacini-takti" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -225,18 +225,18 @@ Our nationals made history and became second in the world. </font><font style="v
                 <div class="col-12 col-lg-4 mb-4">
                     <div class="card text-white h-5">
                             <picture>
-                                 <img src="assets/images/news/toren_1-2.jpg" alt="Capacity Increase from Turkon Line" class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
+                                 <img src="assets/images/news/toren_1-2.jpg" alt="Capacity Increase from bosfor Line" class="img-fluid w-100 card-img-top" loading="lazy" width="400" height="225">
                             </picture>
 
                         <div class="card-body linear-red custom-card">
                             <div class="card-bar card-content-border">
-                                <h4 class="card-title mb-3 text-white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacity Increase from Turkon Line</font></font></h4>
+                                <h4 class="card-title mb-3 text-white"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacity Increase from bosfor Line</font></font></h4>
                                 <p class="card-text m-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-Turkon Line has been providing maritime transportation services in the American, European, Mediterranean and Black Sea markets for more than 25 years in 23 countries; </font><font style="vertical-align: inherit;">28 Agencies, 44 Agency offices and 5 countries; </font><font style="vertical-align: inherit;">There are 11 Turkon Offices.                                 </font></font></p>
+bosfor Line has been providing maritime transportation services in the American, European, Mediterranean and Black Sea markets for more than 25 years in 23 countries; </font><font style="vertical-align: inherit;">28 Agencies, 44 Agency offices and 5 countries; </font><font style="vertical-align: inherit;">There are 11 bosfor Offices.                                 </font></font></p>
                             </div>
                             <div class="d-flex justify-content-end w-100 pos-icon">
-                                <a href="/tr/kurumsal/haberler/turkon-linedan-kapasite-artisi" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
-                                    <i class="ms-icon ms-icon-arrow-next text-danger"></i>
+                                <a href="/tr/kurumsal/haberler/bosfor-linedan-kapasite-artisi" class="btn-sm bg-white d-flex justify-content-center align-items-start p-2" aria-label="details">
+                                    <i class="fa fa-arrow-right text-danger"></i>
                                 </a>
                             </div>
                         </div>
@@ -257,12 +257,12 @@ Turkon Line has been providing maritime transportation services in the American,
             <div class="duyurular">
                     <div class="card border-bottom-gray pb-3">
                         <div class="card-body border-left-blue">
-                            <h5 class="mb-2 text-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Turkon USA Service - General Price Adjustment (GRA)</font></font></h5>
+                            <h5 class="mb-2 text-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">bosfor USA Service - General Price Adjustment (GRA)</font></font></h5>
                             <p class="fs-12 text-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 In order to provide you with uninterrupted and regular service, a "GENERAL PRICE ADJUSTMENT (GRA)" will be applied in the following amounts, in addition to our existing freight rates, for all loadings from Turkey, Egypt, Israel, Lebanon, Black Sea and Spanish ports to North American ports as of January 21, 2024 ( (ship departure dates are taken as basis for application)                            </font></font></p>
                         </div>
                         <div class="d-flex justify-content-end w-100 pb-3">
-                            <a href="/tr/kurumsal/duyurular/turkon-abd-servisi-genel-fiyat-ayarlamasi-gra" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="ms-icon ms-icon-arrow-next text-danger"></i></a>
+                            <a href="/tr/kurumsal/duyurular/bosfor-abd-servisi-genel-fiyat-ayarlamasi-gra" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="fa fa-arrow-right text-danger"></i></a>
                         </div>
                         <hr>
                     </div>
@@ -273,7 +273,7 @@ In order to provide you with uninterrupted and regular service, a "GENERAL PRICE
 In order to provide you with uninterrupted and regular service, in addition to our current freight rates as of January 01, 2024, for all shipments from all Turkish ports to Eastern Mediterranean (TIES and TEL services), Western Mediterranean (ASA and ITE services) and Northern European (NWC service) ports, "GENERAL PRICE ADJUSTMENT (GRA)" will be applied for the specified amounts (ship departure dates are taken as basis for application)                            </font></font></p>
                         </div>
                         <div class="d-flex justify-content-end w-100 pb-3">
-                            <a href="/tr/kurumsal/duyurular/genel-fiyat-ayarlamasi-gra" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="ms-icon ms-icon-arrow-next text-danger"></i></a>
+                            <a href="/tr/kurumsal/duyurular/genel-fiyat-ayarlamasi-gra" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="fa fa-arrow-right text-danger"></i></a>
                         </div>
                         <hr>
                     </div>
@@ -281,10 +281,10 @@ In order to provide you with uninterrupted and regular service, in addition to o
                         <div class="card-body border-left-blue">
                             <h5 class="mb-2 text-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">European Union (EU) Emission Surcharge (ETS)</font></font></h5>
                             <p class="fs-12 text-secondary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
-We present to your information Turkon Line's European Union Emission Surcharge (ETS) tariffs, which will be valid as of January 6, 2024, as follows;                            </font></font></p>
+We present to your information bosfor Line's European Union Emission Surcharge (ETS) tariffs, which will be valid as of January 6, 2024, as follows;                            </font></font></p>
                         </div>
                         <div class="d-flex justify-content-end w-100 pb-3">
-                            <a href="/tr/kurumsal/duyurular/avrupa-birligi-ab-emisyon-ek-ucreti-ets" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="ms-icon ms-icon-arrow-next text-danger"></i></a>
+                            <a href="/tr/kurumsal/duyurular/avrupa-birligi-ab-emisyon-ek-ucreti-ets" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="fa fa-arrow-right text-danger"></i></a>
                         </div>
                         <hr>
                     </div>
@@ -295,7 +295,7 @@ We present to your information Turkon Line's European Union Emission Surcharge (
 In order to provide you with uninterrupted and regular service and to meet the increasing intensity of export demand, as of November 24, 2023, "HIGH SEASON FEE (PSS)" will be applied in the amounts specified below, in addition to our existing freight rates, for all shipments made to USA ports. </font><font style="vertical-align: inherit;">(ship departure dates are taken as basis for application).                            </font></font></p>
                         </div>
                         <div class="d-flex justify-content-end w-100 pb-3">
-                            <a href="/tr/kurumsal/duyurular/abd-servisi-yogun-sezon-ucreti-pss-duyurusu" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="ms-icon ms-icon-arrow-next text-danger"></i></a>
+                            <a href="/tr/kurumsal/duyurular/abd-servisi-yogun-sezon-ucreti-pss-duyurusu" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="fa fa-arrow-right text-danger"></i></a>
                         </div>
                         <hr>
                     </div>
@@ -306,7 +306,7 @@ In order to provide you with uninterrupted and regular service and to meet the i
 Unfortunately, serious delays and operational problems have been experienced since the beginning of 2023 due to the excessive density in Mersin port.                             </font></font></p>
                         </div>
                         <div class="d-flex justify-content-end w-100 pb-3">
-                            <a href="/tr/kurumsal/duyurular/usa-line-yanasma-penceresi-ucreti-wbs-mersin-limani" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="ms-icon ms-icon-arrow-next text-danger"></i></a>
+                            <a href="/tr/kurumsal/duyurular/usa-line-yanasma-penceresi-ucreti-wbs-mersin-limani" class="btn btn-sm bg-light d-flex justify-content-center align-items-center p-2" aria-label="announcement details"><i class="fa fa-arrow-right text-danger"></i></a>
                         </div>
                         <hr>
                     </div>
