@@ -3,8 +3,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <img class="img-fluid mb-4" src="assets/images/header/Logo-BosforGlobal.png" alt="Turkon" width="150"
-                            height="58">
+                    <img class="img-fluid" width="150" src="assets/images/header/Logo-BosforGlobal.png" alt="not">
+
                     </div>
                     <div class="col-12 mt-5">
                         <div class="line-border">
@@ -59,14 +59,14 @@
                 <div class="row justify-content-between align-items-center py-4">
                     <div class="col-12 col-lg-5">
                         <p class="text-white m-0 fs-12">
-                            All Rights Reserved. 2024 © Turkon Konteyner Taşımacılık ve Denizcilik A.Ş
+                            All Rights Reserved. 2024 © Bosfor Konteyner Taşımacılık ve Denizcilik A.Ş
                             <br> Ord.Prof. Dr Fahrettin Kerim Gökay Cad. No: 33 Altunizade / İstanbul / Turkey <br>
-                            Phone: +90 216 544 18 00 Pbx Fax:+90 850 200 77 96 E-mail: info@turkon.com
+                            Phone: +90 216 544 18 00 Pbx Fax:+90 850 200 77 96 E-mail: info@Bosfor.com
                         </p>
                     </div>
                     <div class="col-12 col-lg-2 text-center">
-                        <img src="assets/images/footer/turkonholding.png" alt="Turkon Holding" loading="lazy"
-                            width="115" height="30">
+                    <img class="img-fluid" width="150" src="assets/images/header/Logo-BosforGlobal.png" alt="not">
+
 
                     </div>
                 </div>

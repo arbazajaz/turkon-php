@@ -202,6 +202,17 @@ ul {
     list-style-type:disc;
    
 }
+.card-shadow{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    display: block;
+}
+.card-shadow:hover{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+}
+.card-shadow .card-body{
+    min-height: 100px;
+}
+
 
 
 
