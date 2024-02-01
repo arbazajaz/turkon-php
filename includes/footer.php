@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <img class="img-fluid mb-4" src="assets/images/footer/logo.svg" alt="Turkon" width="150"
+                        <img class="img-fluid mb-4" src="assets/images/header/Logo-BosforGlobal.png" alt="Turkon" width="150"
                             height="58">
                     </div>
                     <div class="col-12 mt-5">

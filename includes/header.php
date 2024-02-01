@@ -1,8 +1,8 @@
 <header>
     <nav class="navbar navbar-expand-lg ">
         <div class="container">
-            <a class="navbar-brand" href="#">
-                <img class="img-fluid" width="150" src="assets/images/header/logo.svg" alt="not">
+            <a class="navbar-brand" href="index.php">
+                <img class="img-fluid" width="150" src="assets/images/header/Logo-BosforGlobal.png" alt="not">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
