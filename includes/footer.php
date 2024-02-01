@@ -12,7 +12,7 @@
                         </div>
 
                     </div>
-                    <div class="col-12 mt-2">
+                    <div class="col-12 mt-3">
                         <div class="d-lg-flex align-items-center justify-content-between">
                             <div class="text-center mb-2">
                                 <div class="d-flex justify-content-center">

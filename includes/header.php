@@ -85,29 +85,39 @@
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 
-                            SERVICES
+                                SERVICES
 
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="med-usa-services.php">MED & USA SERVICE (USM)</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
+                                <li><a class="dropdown-item" href="egypt-lebanon.php">EGYPT & LEBANON SERVICE (TEL)</a></li>
+                                <li><a class="dropdown-item" href="israel-service.php">ISRAEL SERVICE (TIES)</a></li>
+                                <li><a class="dropdown-item" href="northern-european.php">NORTHERN EUROPEAN SERVICE (NWC)</a></li>
+                                <li><a class="dropdown-item" href="france-spain.php">FRANCE & SPAIN SERVICE (ASA)</a></li>
+                                <li><a class="dropdown-item" href="italy.php">ITALY SERVICE (ITE)</a></li>
+                                <li><a class="dropdown-item" href="ukraine-romanta.php">UKRAINE & ROMANIA SERVICE (TUR)</a></li>
+                                <li><a class="dropdown-item" href="georgia.php">GEORGIA SERVICE (TGR) </a></li>
+                              
+                              
 
-                        </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 
-                            CONTACT
+                                CONTACT
 
-                        </a>
-                        <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            </a>
+                            <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="turkey.php">TURKEY</a></li>
+                            <li><a class="dropdown-item" href="usa.php">USA</a></li>
+                            <li><a class="dropdown-item" href="europe.php">EUROPE</a></li>
+                            <li><a class="dropdown-item" href="middle-east.php">MIDDLE EAST</a></li>
 
-                        </ul>
-                    </li>
+                            </ul>
+                        </li>
 
                 </ul>
                 <form class="d-flex" role="search">
