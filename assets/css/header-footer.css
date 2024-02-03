@@ -99,6 +99,9 @@ footer .border-secondary {
     border-color: #004273;
 }
 footer .down{
-    background-color: #d9000d ;
+    background-color: #004273 ;
     padding: 30px 0px;
+}
+.white-image {
+    filter: brightness(0) invert(1) grayscale(100%) contrast(100%);
 }

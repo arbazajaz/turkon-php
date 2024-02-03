@@ -64,9 +64,9 @@ img {
 }
 
 .btn-light:hover {
-    background: #0D328D;
-    border: 1px solid #fff;
-    color: #fff;
+    /* background: #0D328D; */
+    border: 2px solid #0D328D;
+    color: #0D328D;
 }
 
 

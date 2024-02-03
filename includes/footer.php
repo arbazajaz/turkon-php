@@ -65,7 +65,7 @@
                         </p>
                     </div>
                     <div class="col-12 col-lg-2 text-center">
-                    <img class="img-fluid" width="150" src="assets/images/header/Logo-BosforGlobal.png" alt="not">
+                    <img class="img-fluid white-image" width="150" src="assets/images/header/Logo-BosforGlobal.png" alt="not">
 
 
                     </div>
